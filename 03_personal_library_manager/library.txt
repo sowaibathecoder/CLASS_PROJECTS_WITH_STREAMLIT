@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Quran-e-Paak",
+        "author": "Allah Subhaana-o-Tala",
+        "year": "(610 CE - 632 CE)",
+        "genre": "For All of Universe",
+        "read": true
+    },
+    {
+        "title": "Atomic Habit",
+        "author": "James Clear",
+        "year": "2018",
+        "genre": "Personal Growth",
+        "read": false
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "year": "1997",
+        "genre": "Personal Growth",
+        "read": true
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C.Martin",
+        "year": "2008",
+        "genre": "Technology/Software",
+        "read": false
+    },
+    {
+        "title": "Bang-e-Dara",
+        "author": "Allama Iqbal",
+        "year": "1924",
+        "genre": "A Brief History of Time ",
+        "read": true
+    }
+]
